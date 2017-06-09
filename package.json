@@ -1,8 +1,7 @@
 {
   "scripts": {
     "test": "mocha",
-    "itcm": "istanbul cover _mocha",
-    "itest": "/home/dragon/.nvm/versions/node/v6.10.3/bin/istanbul cover /home/dragon/.nvm/versions/node/v6.10.3/bin/mocha"
+    "itcm": "istanbul cover _mocha"
   },
   "dependencies": {
     "chai": "^4.0.2",
